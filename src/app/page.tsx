@@ -3,9 +3,9 @@ import ProfileHeader from "@/components/ProfileHeader";
 
 // 더미 데이터: 나중에 실제 내용으로 교체
 const profile = {
-  name: "클로드 리",
-  bio: "중계 최고 바이브코더",
-  imageSrc: "/profile-placeholder.svg",
+  name: "김개발",
+  bio: "풀스택 개발자: 요즘에는 AI 개발에 관심이 많아요.",
+  imageSrc: "https://placehold.co/160x160/orange/white",
 };
 
 const links = [
